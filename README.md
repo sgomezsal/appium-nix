@@ -10,6 +10,25 @@ No Java headaches.
 
 ---
 
+## ⚡ Example
+
+Run a real Android automation in one command:
+
+```
+nix run github:sgomezsal/appium-nix -- examples/basic_navigation.py
+```
+
+Output:
+
+```
+[appium-nix] Starting Appium...
+[appium-nix] Running: examples/basic_navigation.py
+Navigation successful
+[appium-nix] Stopping Appium...
+```
+
+---
+
 ## 🚀 Quick Start
 
 Start Appium server:
@@ -33,14 +52,6 @@ nix run github:sgomezsal/appium-nix -- examples/basic_navigation.py
 - Python + Appium client ready
 - Automatic Appium lifecycle management
 - Supports external scripts
-
----
-
-## 📱 Example
-
-```
-nix run . -- examples/basic_navigation.py
-```
 
 ---
 

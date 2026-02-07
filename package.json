@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "appium": "^3.2.0"
+  },
+  "devDependencies": {
+    "appium-chromium-driver": "^2.1.0",
+    "appium-uiautomator2-driver": "^6.7.10"
+  }
+}

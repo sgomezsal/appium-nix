@@ -1,0 +1,13 @@
+# Runtime artifacts
+.android-sdk/
+node_modules/
+.appium.log
+result/
+
+# Nix
+result
+*.drv
+
+# Python
+__pycache__/
+*.pyc

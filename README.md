@@ -1,5 +1,9 @@
 # appium-nix
 
+<p align="center">
+  <img src="assets/demo.gif" alt="appium-nix demo" />
+</p>
+
 A minimal Appium runtime powered by Nix.
 
 Run a full mobile automation environment with **one command**.
